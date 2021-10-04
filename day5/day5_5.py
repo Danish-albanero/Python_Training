@@ -17,5 +17,5 @@ def bin_search(li, element):
     return index
 
 li=[2,5,7,9,11,17,222]
-print bin_search(li,11)
-print bin_search(li,12)
+print(bin_search(li,11))
+print(bin_search(li,12))
