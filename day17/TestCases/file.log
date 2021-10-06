@@ -1,0 +1,8 @@
+2021-10-01 15:31:33.485 | INFO     | api.views:get:23 - <Response status_code=200, "text/html; charset=utf-8">
+2021-10-01 15:31:43.043 | INFO     | api.views:get:19 - <Response status_code=200, "text/html; charset=utf-8">
+2021-10-01 15:31:58.580 | INFO     | api.views:get:23 - <Response status_code=200, "text/html; charset=utf-8">
+2021-10-01 15:32:03.674 | INFO     | api.views:get:19 - <Response status_code=200, "text/html; charset=utf-8">
+2021-10-01 15:32:51.662 | DEBUG    | api.views:post:30 - <Response status_code=201, "text/html; charset=utf-8">
+2021-10-01 15:33:11.586 | INFO     | api.views:get:19 - <Response status_code=200, "text/html; charset=utf-8">
+2021-10-01 15:33:42.899 | INFO     | api.views:patch:52 - <Response status_code=200, "text/html; charset=utf-8">
+2021-10-01 15:33:53.202 | INFO     | api.views:get:23 - <Response status_code=200, "text/html; charset=utf-8">
